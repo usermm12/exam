@@ -1,0 +1,13 @@
+div{
+    background-color: rgb(66, 219, 28);text-align: center;color: white;
+}
+button{
+    background-color: rgb(35, 241, 35);color: white;
+}
+table{
+    border-collapse: collapse;width: 100%;
+}
+td,th{
+border: 1px;
+text-align: start;
+}
